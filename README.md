@@ -5,8 +5,8 @@ koa-lana is a new generation Nodejs  framework, build with koa2,Requiring babel 
 Before getting started ,please make sure you have already installed: node(v4++)
 
 # Install
-$ git clone https://github.com/yxz1025/koa-lana.git
-$ cd koa-lana && npm install
+   git clone https://github.com/yxz1025/koa-lana.git
+   cd koa-lana && npm install
 
 # Run
 npm start
