@@ -46,7 +46,7 @@ if (app.env == 'production') {
             'RDS_DB': 2
         },
         AUTH_KEY: 'uAhnG_C=?:5w|QZ^*[$V1o~xcd+R8TkpzmKN;Ub(',
-        API_HOST: 'http://hongbao.jianshen.so',
+        API_HOST: 'http://localhost',
         component_config: {
             token: 'token',
             key: 'key',
